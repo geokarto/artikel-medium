@@ -1,12 +1,16 @@
 # 📖 Penulisan Artikel dari Medium 📖
-Aku ada tulis penulisan artikel dari laman Medium tentang penggunaan QGIS dan apa-apa yang berkait dengannya. Tujuannya tak lain daripada untuk rujukan aku sendiri dan para skema kartografi dan data visual. Disebabkan aku tidak 
-begitu rajin untuk mencedok semula artikel-artikel lama masuk ke Github, aku buat satu direktori di sini yang menghimpunkan tutorial yang telah aku tulis. Pendapat aku, laman web Medium juga agak teruk untuk tujuan navigasi
-kerana tidak menyediakan homepage yang mesra pengguna. 
+Aku ada tulis artikel di laman Medium tentang penggunaan QGIS dan apa-apa yang berkait dengan pemetaan. Tujuannya tak lain daripada untuk rujukan aku sendiri dan para skema kartografi dan data visual. Disebabkan aku tidak 
+begitu rajin untuk mencedok semula artikel-artikel lama masuk ke dalam Github, aku buat satu direktori di sini yang menghimpunkan segala yang telah aku tulis tentang peta. Aku juga tak mahu gunakan Wordpress kerana 
+penggunaan storan simpanan yang terhad. Kalau aku konsisten menulis dan memasukkan gambar yang bersaiz besar, ada kemungkinan aku perlu melanggan untuk meneruskan portfolio di sana. Penggunaan Medium pula adalah kerana aku tak 
+perlu pening untuk mengakalkan tentang format, penggunaan storan, dan media. 
+
+Tulis di Medium.
+Himpun di Github.
 
 Jadi yang dihimpunkan di sini tak ubah seperti indeks di pangkal sebuah buku untuk memudahkan semua pembaca.
 
 # 🌏 QGIS 🌏
-1. Memindahkan lapisan peta dari Mapbox ke QGIS
-   https://medium.com/@dilhumbug/tutorial-memindahkan-lapisan-peta-dari-mapbox-ke-qgis-b8b24228a144?source=friends_link&sk=25490716140fac8509d6bff472f402a6
-2. Pindahkan maklumat lat long dari attribute table ke projek
-   https://medium.com/@geokarto/pindahkan-maklumat-lat-long-dari-attribute-table-ke-projek-8bfa8e803b50
+1. [Memindahkan lapisan peta dari Mapbox ke QGIS]
+   (https://medium.com/@dilhumbug/tutorial-memindahkan-lapisan-peta-dari-mapbox-ke-qgis-b8b24228a144?source=friends_link&sk=25490716140fac8509d6bff472f402a6)
+2. [Pindahkan maklumat lat long dari attribute table ke projek]
+   (https://medium.com/@geokarto/pindahkan-maklumat-lat-long-dari-attribute-table-ke-projek-8bfa8e803b50)
