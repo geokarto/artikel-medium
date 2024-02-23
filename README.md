@@ -13,6 +13,7 @@ Jadi yang dihimpunkan di sini tak ubah seperti indeks di pangkal sebuah buku unt
 1. [Memindahkan lapisan peta dari Mapbox ke QGIS](https://medium.com/@dilhumbug/tutorial-memindahkan-lapisan-peta-dari-mapbox-ke-qgis-b8b24228a144?source=friends_link&sk=25490716140fac8509d6bff472f402a6)
 2. [Pindahkan maklumat lat long dari attribute table ke projek](https://medium.com/@geokarto/pindahkan-maklumat-lat-long-dari-attribute-table-ke-projek-8bfa8e803b50)
 3. [Cipta isochrone mudah di QGIS](https://medium.com/@geokarto/cipta-isochrone-mudah-di-qgis-3877e079a997)
+4. [Dapatkan fail SRTM menggunakan plug-in dalam QGIS](https://medium.com/@geokarto/dapatkan-fail-srtm-menggunakan-plug-in-dalam-qgis-e8fd087e2f65)
 
 # 🎨 Illustrator 🎨
 1. [Buat buffer secara mudah di Illustrator](https://medium.com/@geokarto/buat-buffer-secara-mudah-di-illustrator-c8ebd48fe46a)
